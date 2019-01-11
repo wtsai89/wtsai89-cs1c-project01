@@ -1,6 +1,6 @@
 /**
  * Simple class to test submitting to GitHub repository.
- * @author Foothill College, Bita M
+ * @author Foothill College, William Tsai
  *
  * Note: If you modified this file then update the author name with your: FirstName LastName
  * 
@@ -15,7 +15,7 @@ public class DemoGit
 	 */
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello. My name is [Enter your name here]");
+		System.out.println("Hello. My name is William Tsai");
 
 	}
 
